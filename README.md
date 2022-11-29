@@ -1,2 +1,3 @@
 # Pi-in-the-Sky-Project
-## Planing
+## Planning
+We plan on making a water rocket 
