@@ -17,9 +17,17 @@ siscers
 hot glue
 air presure gun
 water
+red led
+green led
 ### diagram
 ![photo 1](https://user-images.githubusercontent.com/71345217/205986863-ab60c67c-df77-473f-ac91-66d4542f708a.JPG)
-Start program
+
+
+initate code to check that everything is working
+if not red led glows and oled reads error
+if so countdown stars an oled screen counts down from 10-0 and 
+at 0 green led glows and it says lifftoff on the screen
+
 ### what I need to learn
 I need to learn how to make a code for the altimiter and the acelromiter.
 
