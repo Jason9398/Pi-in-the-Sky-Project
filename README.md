@@ -37,7 +37,23 @@ Have gathered all the matirals and already got work
 
 
 
+The start of January 
 
+We should be finding code that we could use to measure our rocket's rotation and altitude.
+
+By February 
+
+we should have an prototype made and ready to go.
+
+By March 
+
+We should have our final tweaks and design done and ready for test day...
+
+April 
+
+Launch and data collection
+
+May 
 
 
 
