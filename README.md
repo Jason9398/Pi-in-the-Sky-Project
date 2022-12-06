@@ -2,7 +2,8 @@
 ## Planning
 We plan on making a water rocket.The things we will be measuring are altituide and rotation.Another thing that needs to be done is write a code for both the acelromiter and the altimiter and make the rocket. 
 ### Matirals needed 
-Two liter soda botle launch pad provided by will,cardboard for fins,cloth from umbrella to make a parachute.wires,breadbord,tape,siscers,hot glue,air presure gun we used when we used the air cannon,altimeter,acelatomiter 
+Two liter soda botle launch pad provided by will,cardboard for fins,cloth from umbrella to make a parachute.wires,breadbord,tape,siscers,hot glue,air presure gun we used when we used the air cannon,altimeter,acelatomiter
+![photo 1](https://user-images.githubusercontent.com/71345217/205986863-ab60c67c-df77-473f-ac91-66d4542f708a.JPG)
 ### Bill of matirals 
 2 soda bottles
 1 altimiter
@@ -18,7 +19,7 @@ hot glue
 air presure gun
 water
 ### diagram
-![photo 1](https://user-images.githubusercontent.com/71345217/205986863-ab60c67c-df77-473f-ac91-66d4542f708a.JPG)
+
 
 ### what I need to learn
 I need to learn how to make a code for the altimiter and the acelromiter.
