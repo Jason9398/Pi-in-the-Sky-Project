@@ -35,7 +35,13 @@ Green led
 
 Red led
 ### diagram
+initate code to check that everything is working
 
+if not red led glows and oled reads error
+
+if so countdown stars an oled screen counts down from 10-0 and 
+
+at 0 green led glows and it says lifftoff on the screen
 
 ### what I need to learn
 I need to learn how to make a code for the altimiter and the acelromiter.
