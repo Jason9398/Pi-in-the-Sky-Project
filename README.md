@@ -2,7 +2,7 @@
 ## Planning
 We plan on making a water rocket.The things we will be mesuring are altatuide and rotation.Another thing that needs to be done is write a code for both the acelromiter and the altimiter and make the rocket. 
 ### Matirals needed 
-Two liter soda botle launch oad previded by will,cardboard for fins,cloth from ubrella to make a perasuit.wires,breadbord,tape,siscers,hot glue,air presure gun we used when we used the air cannon,altimeter,acelatomiter 
+Two liter soda botle launch pad previded by will,cardboard for fins,cloth from umbrella to make a perasuit.wires,breadbord,tape,siscers,hot glue,air presure gun we used when we used the air cannon,altimeter,acelatomiter 
 ### Bill of matirals 
 2 soda bottles
 1 altimiter
@@ -20,13 +20,13 @@ water
 ### diagram
 ![photo 1](https://user-images.githubusercontent.com/71345217/205986863-ab60c67c-df77-473f-ac91-66d4542f708a.JPG)
 
-### what we need to learn
-we need to learn how to make a code for the altimiter and the acelromiter.
+### what I need to learn
+I need to learn how to make a code for the altimiter and the acelromiter.
 
 ### definition of succes
 my definition of succes is that it works and we get an A on the project.
 ### saftey mesures
-wearing gogles and other saftey equitment amd staying a safe distance during launch
+wearing gogles and other saftey equitment
 ### schedule/what we did to day.
 #### 12/6
 Finished up the planing and submitted it.
