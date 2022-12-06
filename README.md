@@ -18,8 +18,8 @@ hot glue
 air presure gun
 water
 ### diagram
-https://github.com/Jason9398/Engineering_4_Notebook/blob/main/diagran.zip
-click down load
+![photo 1](https://user-images.githubusercontent.com/71345217/205986863-ab60c67c-df77-473f-ac91-66d4542f708a.JPG)
+
 ### what I need to learn
 I need to learn how to make a code for the altimiter and the acelromiter.
 
