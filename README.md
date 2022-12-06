@@ -20,13 +20,13 @@ water
 ### diagram
 ![photo 1](https://user-images.githubusercontent.com/71345217/205986863-ab60c67c-df77-473f-ac91-66d4542f708a.JPG)
 
-### what I need to learn
-I need to learn how to make a code for the altimiter and the acelromiter.
+### what we need to learn
+we need to learn how to make a code for the altimiter and the acelromiter.
 
 ### definition of succes
 my definition of succes is that it works and we get an A on the project.
 ### saftey mesures
-wearing gogles and other saftey equitment
+wearing gogles and other saftey equitment amd staying a safe distance during launch
 ### schedule/what we did to day.
 #### 12/6
 Finished up the planing and submitted it.
