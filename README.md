@@ -19,7 +19,7 @@ air presure gun
 water
 ### diagram
 ![photo 1](https://user-images.githubusercontent.com/71345217/205986863-ab60c67c-df77-473f-ac91-66d4542f708a.JPG)
-
+Start program
 ### what I need to learn
 I need to learn how to make a code for the altimiter and the acelromiter.
 
@@ -37,22 +37,7 @@ Have gathered all the matirals and already got work
 
 
 
-#### January 
-We should be finding code that we could use to measure our rocket's rotation and altitude.
 
-#### February  
-
-we should have an prototype made and ready to go.
-
-#### March 
-
-We should have our final tweaks and design done and ready for test day...
-
-#### April
-
-Launch and data collection
-
-#### May 
 
 
 
