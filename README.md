@@ -12,9 +12,9 @@ Two liter soda botle launch pad provided by will,cardboard for fins,cloth from u
 
 1 acelromiter
 
-4 pices of cardborad
+4 pieces of cardborad
 
-launch pad privideded by will
+launch pad provideded by will
 
 cloth from an umbrella
 
