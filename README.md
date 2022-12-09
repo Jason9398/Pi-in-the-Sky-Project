@@ -20,10 +20,10 @@ cloth from an umbrella
 
 wires
 
-breadbord
+ 2breadbord
 
 tape
-scissors
+1scissors
 
 hot glue
 
@@ -31,9 +31,9 @@ air presure gun
 
 water
 
-Green led
+1Green led
 
-Red led
+1Red led
 ### diagram
 initate code to check that everything is working
 
