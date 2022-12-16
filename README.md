@@ -43,6 +43,9 @@ if so countdown stars an oled screen counts down from 10-0 and
 
 at 0 green led glows and it says lifftoff on the screen
 
+![work](https://user-images.githubusercontent.com/71345217/208166467-299a32c6-1d01-4c16-b156-9baf2c14ca31.JPG)
+
+
 ### what I need to learn
 I need to learn how to make a code for the altimiter and the acelromiter.
 
