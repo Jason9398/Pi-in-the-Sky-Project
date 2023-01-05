@@ -51,8 +51,8 @@ I need to learn how to make a code for the altimiter and the acelromiter.
 
 ### definition of succes
 my definition of succes is that it works and we get an A on the project.
-### saftey mesures
-wearing gogles and other saftey equitment
+### saftey measures
+wearing gogles and other saftey equipment
 ### schedule/what we did to day.
 #### 12/6
 Finished up the planing and submitted it.
