@@ -68,6 +68,10 @@ We should be finding code that we could use to measure our rocket's rotation and
 
 #### February  
 
+
+https://user-images.githubusercontent.com/71898987/220436843-d3a5e14f-4c54-4660-b09e-1540c410ef87.MOV
+
+
 we should have an prototype made and ready to go.
 
 #### March 
