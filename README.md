@@ -70,7 +70,9 @@ We should be finding code that we could use to measure our rocket's rotation and
 
 
 
-https://user-images.githubusercontent.com/71898987/220437406-3b6b3f84-8c22-4077-87fb-0f91c14e9f5e.MOV
+https://user-images.githubusercontent.com/71898987/220437811-6ececfcb-4bb1-41f0-a899-76a5ac68e687.MOV
+
+
 
 
 we should have an prototype made and ready to go.
