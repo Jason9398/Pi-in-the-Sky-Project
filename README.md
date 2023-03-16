@@ -68,9 +68,9 @@ We should be finding code that we could use to measure our rocket's rotation and
 
 #### February  
 
+![ezgif com-gif-to-mp4](https://user-images.githubusercontent.com/71345217/225710903-473931d5-6199-41ce-ae17-4a850022b632.gif)
 
 
-https://user-images.githubusercontent.com/71898987/220437811-6ececfcb-4bb1-41f0-a899-76a5ac68e687.MOV
 
 
 
