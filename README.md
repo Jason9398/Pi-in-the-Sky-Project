@@ -88,7 +88,7 @@ Launch and data collection
 #### May 
 
 We will be analyzing our collected data and making our last bit of documentation.
-Code is about done. Working on remaking our parachute. Its been three days and we're having an difficult time with the parachute. Hopefully as of today May 12 we finish the parachute. Did not finish the parachute on the 12th , still in progress of making an sucessful one, May 15th. As of right now our goal is to be done by the 20th.
+Code is about done. Working on remaking our parachute. Its been three days and we're having an difficult time with the parachute. Hopefully as of today May 12 we finish the parachute. Did not finish the parachute on the 12th , still in progress of making an sucessful one, May 15th. As of right our main focus is to add some finishing touches to our code and again the parachute and we'll be done, hopefully by the 20th.
 
 #### June 
 
