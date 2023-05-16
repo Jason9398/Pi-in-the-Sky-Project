@@ -83,7 +83,7 @@ We should have our final tweaks and design done and ready for test day...
 
 #### April
 
-Launch and data collection, did launch a prototype but did not have the code ready in order to get any data.
+Launch and data collection. We did launch a prototype but did not have the code ready in order to get any data.
 
 #### May 
 
