@@ -97,16 +97,21 @@ We should be done with everything. By this time we should have gathered every bi
 ### Pie in the sky code
 THIS MOTH WE FINSHED THE CODE AND THE WIRING THE LING TO THE CODE IS DOWN BELOW
 https://github.com/Jason9398/Engineering_4_Notebook/blob/main/raspberry-pi/.vscode/pie%20in%20sky%20code.py
-
-
-
-
-
-
-
-
-
-
+### URCIT BOARD AND SERVOS
+AND THIS IS THE CURIT BOARD WITH OUR PICO,WIRES AND SERVOS ON IT.
+![ezgif com-gif-maker](https://github.com/Jason9398/Pi-in-the-Sky-Project/assets/71345217/7b5ae0be-6f1a-46a8-a3c3-d01caf7d6453)
+### PARACUIT
+hERE IS THE PARACUIT DEVON MADE HE JUST HASENT HAD A CHANCE TO TIE THE STRINGS
+![ezgif com-gif-maker (1)](https://github.com/Jason9398/Pi-in-the-Sky-Project/assets/71345217/437fe750-c0e6-43de-9ea9-105ab73952e8)
+###  BOTTLE ROCKET
+HERE IS OUR BOTTLE ROCKET WE JUST DIDN'T GET A CHANCE TO PUT EVERYTHING TOGETHER
+![ezgif com-gif-maker (2)](https://github.com/Jason9398/Pi-in-the-Sky-Project/assets/71345217/8d6a87ef-85e0-404d-aa5c-042ac3150b78)
+### All together
+this is what they look like all together
+![ezgif com-gif-maker (3)](https://github.com/Jason9398/Pi-in-the-Sky-Project/assets/71345217/5360ce0d-47bd-482f-aed7-4d64c0f0f754)
+### pin Map
+Here is my pin map showing how my curkit board is wired it is realy hard to make sure you get the wires in the right spot
+![ezgif com-gif-maker (4)](https://github.com/Jason9398/Pi-in-the-Sky-Project/assets/71345217/742bbdb0-133d-4643-aaa7-0ff8ef9194e7)
 
 
 
