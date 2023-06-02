@@ -94,7 +94,7 @@ Code is about done. Working on remaking our parachute. Its been three days and w
 
 We should be done with everything. By this time we should have gathered every bit of data we've collected and be finished with the whole project.
 
-###Pie in the sky code
+### Pie in the sky code
 THIS MOTH WE FINSHED THE CODE AND THE WIRING THE LING TO THE CODE IS DOWN BELOW
 https://github.com/Jason9398/Engineering_4_Notebook/blob/main/raspberry-pi/.vscode/pie%20in%20sky%20code.py
 
